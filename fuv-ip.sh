@@ -78,7 +78,7 @@ if [ $no = 01 ]
         then
             echo -e $white"Penggunaan : $do IP Address/prefix or 192.X.X.X/26"
             sleep 3
-            ./FuvIP.sh
+            ./fuv-ip.sh
 
         elif [ $no = 00 ]        
             then
@@ -90,7 +90,7 @@ if [ $no = 01 ]
                 echo -e $white"Maaf Nomor menu tidak tersedia !"
                 sleep 2
                 echo -e $cyan"Kembali ke tools..."
-                ./FuvIP.sh
+                ./fuv-ip.sh
 fi
 
 # Dilarang me Record !!
