@@ -20,11 +20,11 @@ chmod +x paket.sh
 chmod +x fuv-ip.sh
 ```
 setelah itu install paket - paket di dalam nya :
-./paket.sh dan jalankan ./fuv-ip.sh
+ "**./paket.sh**" dan jalankan "**./fuv-ip.sh**"
 
 ## cara penggunaan :
-./fuv-ip.sh masukan ip address yang mau di hitung contoh [ 192.168.10.10/25 ]
+./fuv-ip.sh masukan ip address yang mau di hitung contoh "**[ 192.168.10.10/25 ]**"
 
 untuk Login kedalam Tools ini ketik :
-##### Username : HunX
-##### Password : 123
+"**Username : HunX**"
+"**Password : 123**"
