@@ -1,5 +1,5 @@
 #!/bin/bash
-#           lICENSI MY CODE
+#           lISENSI MY CODE
 #  ===================================
 #   | TOOLS  INI  BERFUNGSI   UNTUK |
 #   |     HITUNG   IP   ADDRESS     |
