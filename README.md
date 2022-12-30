@@ -1,14 +1,19 @@
 ## Kal-IP
 kal-ip atau kalkulator IP adalah tools yang di kembangkan untuk membantu kita dalam menghitung IP Address baik itu; jumlah host, network, broadcast, range, dan subnet mask 
                                                   
-<img src="fuv-ip.png">                                     
-
+<img src="fuv-ip.png">                                 
 
 ## Instalasi Kal-IP di Kali Linux
 ```
+apt-get install figlet 
+apt-get install lolcat 
+apt-get install git
+```
+#### lalu git clone reposeitory yang akan di gunakan
 git clone https://github.com/Hunxploit04/Kal-IP.git
 ```
 ```
+#### lalu masuk ke tools nya :
 cd Kal-IP
 chmod +x paket.sh
 chmod +x fuv-ip.sh
