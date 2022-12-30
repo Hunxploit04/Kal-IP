@@ -1,7 +1,7 @@
 ## Kal-IP
 kal-ip atau kalkulator IP adalah tools yang di kembangkan untuk membantu kita dalam menghitung IP Address baik itu; jumlah host, network, broadcast, range, dan subnet mask 
                                                   
-![image.png]( {} )                                                
+![image.png]( {https://github.com/Hunxploit04/Kal-IP/blob/main/fuv-ip.png} )                                                
 
 
 ## Instalasi Kal-IP di Kali Linux
