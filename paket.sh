@@ -28,3 +28,6 @@ sleep 3
 echo -e $white"Instalasi Selesai..."
 sleep 5
 #============================================
+# Dilarang me Record !!
+# Kecuali Izin Sama Adminnya 
+# Hubungi Wa Admin 0895327985339
