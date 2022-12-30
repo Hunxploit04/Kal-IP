@@ -10,10 +10,11 @@ apt-get install lolcat
 apt-get install git
 ```
 #### lalu git clone reposeitory yang akan di gunakan
+```
 git clone https://github.com/Hunxploit04/Kal-IP.git
 ```
-```
 #### lalu masuk ke tools nya :
+```
 cd Kal-IP
 chmod +x paket.sh
 chmod +x fuv-ip.sh
