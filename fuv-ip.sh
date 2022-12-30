@@ -78,7 +78,7 @@ if [ $no = 01 ]
         then
             echo -e $white"Penggunaan : $do IP Address/prefix or 192.X.X.X/26"
             sleep 3
-            ./fuv-ip.sh
+            exit
 
         elif [ $no = 00 ]        
             then
